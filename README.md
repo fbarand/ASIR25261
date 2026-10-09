@@ -16,3 +16,4 @@ OU
 <img width="498" height="499" alt="image" src="https://github.com/user-attachments/assets/48f7cabd-28d7-4dc3-9716-63d82e3b7fcc" />
 
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/78375ea7-3b30-47b8-9b9f-b8c00de712a8" />
+<img src="https://es.wikipedia.org/wiki/Archivo:Tux-Linux.gif">
